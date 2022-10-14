@@ -77,3 +77,8 @@
 	path = TRESCLOUD/web
 	url = git@github.com:TRESCLOUD/web.git
 	branch = 15.0
+
+[submodule "TRESCLOUD/odoo-clientes-especificos/edibosco"]
+	path = TRESCLOUD/odoo-clientes-especificos/edibosco
+	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
+	branch = 15.0
